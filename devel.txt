@@ -1,2 +1,4 @@
  novi fajl
+
  radim iz master
+=======

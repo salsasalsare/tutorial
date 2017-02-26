@@ -1,1 +1,2 @@
  novi fajl
+ ovo je dodato u devel branch
